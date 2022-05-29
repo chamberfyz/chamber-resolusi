@@ -1,3 +1,7 @@
 rencana libur
 - php
 - js dom
+- js
+  *framework
+    ^Vue
+    ^React

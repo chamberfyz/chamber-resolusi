@@ -4,5 +4,6 @@ rencana libur
     ^ Laravel
 - js dom
 - js
-  * framework
-    ^ Angular
+  *framework
+    ^Vue
+    ^React

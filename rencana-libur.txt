@@ -6,4 +6,4 @@ rencana libur
 - js
   *framework
     ^Vue
-    ^React
+- certification freecodecamp
